@@ -1,5 +1,7 @@
 # Breadth-First-Search-Algorithm-
+created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 1st-year Engineering student)
 
+## Presentation  
 ![pic1](https://github.com/XACKIES/Breadth-First-Search-Algorithm-/blob/main/Doc/2.jpg)
 ![pic2](https://github.com/XACKIES/Breadth-First-Search-Algorithm-/blob/main/Doc/3.jpg)
 ![pic3](https://github.com/XACKIES/Breadth-First-Search-Algorithm-/blob/main/Doc/4.jpg)
